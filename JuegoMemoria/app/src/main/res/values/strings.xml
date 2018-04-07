@@ -1,0 +1,5 @@
+<resources>
+    <!-- Van todos los textos de la aplicación. Se deben hacer referencia todos los textos aquí -->
+    <string name="app_name">JuegoMemoria</string>
+    <string name="textoMaria">María</string>
+</resources>
